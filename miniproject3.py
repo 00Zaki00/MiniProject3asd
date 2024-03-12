@@ -117,8 +117,8 @@ class TokoLaptop:
             print("3. Ubah Laptop")
             print("4. Hapus Laptop")
             print("5. Lihat Semua Laptop")
-            print("6. Sortir Laptop (Ascending)")
-            print("7. Sortir Laptop (Descending)")
+            print("6. Urutkan Laptop (Ascending)")
+            print("7. Urutkan Laptop (Descending)")
             print("0. Keluar")
 
             choice = input("Pilih menu (0-7): ")
